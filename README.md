@@ -1,6 +1,5 @@
 <div align="center">
   
-hei!
 <br>
 <img height="100" width="80%" alt="Thanks for visiting my github profile" src="img/welocme.png" />
 <br><br>
